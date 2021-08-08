@@ -10,6 +10,7 @@ The purpose of this project was to create visualizations of rideshare data for P
 
 
 Results
+![pic1](https://github.com/Klubbers0/Kickstarter-analysis/blob/main/resources/Outcomes%20Based%20on%20Goal.png)
 
 
 
