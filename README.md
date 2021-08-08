@@ -16,7 +16,7 @@ From these results we can see that Urban cities had the most rides, drivers and 
 ![pic1](Analysis/Challenge_summary.PNG)
 
 The second analysis that was completed for Jan 1, 2019 to April 29th, 2019 shows us that again, Urban cities had the highest total fares, whole Rural cities had the least. Week 4 of February, 2019 had the highest amount of fares in all cities. Towards the end of April, both Urban and Rural cities start to decline while Suburban fares start to incline. 
-![pic1](Analysis/Challenge_summary.PNG)
+![pic1](Analysis/Totalfarecitytype.PNG)
 
 
 
