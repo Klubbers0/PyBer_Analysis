@@ -20,5 +20,9 @@ The second analysis that was completed for Jan 1, 2019 to April 29th, 2019 shows
 
 
 
-: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary
+
+Based on these results I would recommend the following:
+ * Funnel more reveneue for items like ads, discounts, and app updates into Urban areas. Urban areas generate the bulk of the companies profits, to increase this trend, funnel money into Urban areas. Generating more income in the Urban areas will help make up for the disparities in profits from the rural and suburban areas. 
+ * Have the drivers in Urban areas charge more per trip. This wil help increase profits and revenue but also increase fares per driver. Alternatively, charging less for fares in Rural areas might help inrease the number of total fares. 
+ * Push coupons or deals to riders towards the end of the month to increase ridership, as ridership and fares statistically go down at the end of each month
