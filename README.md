@@ -8,10 +8,15 @@ The purpose of this project was to create visualizations of rideshare data for P
   * Total Fares
   * Total Drivers
 
+A new analysis was created to show the total weekly fares for each city by type from January 1, 2019 to April 29th, 2019. 
 
-Results
+
+## Results
+From these results we can see that Urban cities had the most rides, drivers and total fares. Urban fares were the lowest, but created the most amount of revenue at $39,854.38. Rural cities had the highest fare per ride, and average fare per driver. Although they had the highest average fare, they created the least amount of fares at $4,327.93. Based off of these results, we can conclude that Urban cities bring in the most amount of revenue, despite having the lowest fares. 
 ![pic1](Analysis/Challenge_summary.PNG)
 
+The second analysis that was completed for Jan 1, 2019 to April 29th, 2019 shows us that again, Urban cities had the highest total fares, whole Rural cities had the least. Week 4 of February, 2019 had the highest amount of fares in all cities. Towards the end of April, both Urban and Rural cities start to decline while Suburban fares start to incline. 
+![pic1](Analysis/Challenge_summary.PNG)
 
 
 
